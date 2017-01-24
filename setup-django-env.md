@@ -10,3 +10,12 @@
 * activate djangovenv
 
 > source /path/to/virualenv/bin/activate
+
+* install django in the venv
+
+> pip install django
+
+* install a specific version django 
+
+> pip install django==1.9
+
